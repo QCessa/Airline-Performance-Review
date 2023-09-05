@@ -1,8 +1,8 @@
 # Hello,👋🏾.
 
-My name is Francess. I am a Data Scientist proficient in working with Python, SQL, Excel, and PowerBi.
-Currently, I am an Azure Cloud Technical Trainer at Tek Experts, where I train New Hires on clients' product knowlwedge, excellent support delivery and exceeding Key Performance Indicators(KPIs).
+My name is Francess. I am a budding Data Analyst with and beginner's knowledge working with Python, SQL, Excel, and PowerBi.
+Currently, I am a Customer Success Analyst at Quidax, where I leverage data-driven insights to provide strategic recommendations for improving customer experience and driving revenue growth.
 
 * ✍ I’m currently working on building projects to showcase my data analytics skills in SQL, Excel, PowerBi, Tableau and Python.
-* 🤝 Ask me about everything data, data communities and performance management
+* 🤝 Ask me about everything Customer Success, Diplomacy in the workplace, Workforce management, Customer Support.
 * 👩🏽‍🤝‍👩🏼 Connect with me on linkedin - www.linkedin.com/in/francess-ogbemudia
